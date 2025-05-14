@@ -84,25 +84,48 @@
 
 #### Investimento Inicial
 
-| Item                      | Valor (R\$) |
-| ------------------------- | ----------- |
-| Aluguel (3 meses)         | 6.000       |
-| Mobiliário e equipamentos | 15.000      |
-| Softwares e licenças      | 3.000       |
-| Marketing inicial         | 5.000       |
-| Capital de giro           | 10.000      |
-| **Total**                 | **39.000**  |
+| Item                         | Valor (R\$) |
+| ---------------------------- | ----------- |
+| Aluguel (3 meses adiantados) | 6.000       |
+| Mobiliário e equipamentos    | 15.000      |
+| Softwares e licenças         | 3.000       |
+| Marketing inicial            | 5.000       |
+| Capital de giro              | 10.000      |
+| **Total**                    | **39.000**  |
+
+---
+
+#### **Custos Recorrentes Mensais (Fixos)**
+
+| Descrição                            | Valor (R\$) |
+| ------------------------------------ | ----------- |
+| Salário - Diretor de Criação         | 4.000       |
+| Salário - Designer Gráfico           | 2.800       |
+| Salário - Mídias Sociais             | 2.500       |
+| Salário - Atendimento                | 2.500       |
+| Encargos trabalhistas (estimado 70%) | 8.435       |
+| Aluguel                              | 2.000       |
+| Conta de luz                         | 350         |
+| Internet e telefonia                 | 300         |
+| Softwares e licenças (mensal)        | 250         |
+| Manutenção e limpeza                 | 200         |
+| Marketing e anúncios                 | 1.000       |
+| **Total mensal**                     | **24.335**  |
+
+---
 
 #### Projeção de Receitas
 
-* Receita esperada no 1º ano: R\$ 120.000
-* Crescimento estimado: 15% ao ano
-
-#### Ponto de Equilíbrio
-
-* Identificação do faturamento mínimo necessário para cobrir os custos fixos e variáveis.
+* Receita esperada no 1º ano: R\$ 10.000/mês no início, com crescimento de 10 a 15% trimestral.
+* Receita projetada ao fim do 1º ano: cerca de R\$ 160.000/ano (média de R\$ 13.300/mês).
 
 ---
+
+#### **Ponto de Equilíbrio Mensal**
+
+Para cobrir os custos fixos e não ter prejuízo, a empresa deve faturar no mínimo:
+
+**R\$ 24.335 por mês**
 
 ### 6. **Análise SWOT**
 
