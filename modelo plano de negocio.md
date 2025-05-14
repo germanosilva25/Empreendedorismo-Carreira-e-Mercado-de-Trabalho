@@ -3,10 +3,10 @@
 ### 1. **Resumo Executivo**
 
 * **Nome da empresa**: Impacto Criativo - Agência de Publicidade
-* **Localização**: São Paulo – SP
+* **Localização**: Maricá - RJ
 * **Forma jurídica**: Sociedade Limitada (LTDA)
-* **Área de atuação**: Publicidade e Propaganda
-* **Serviços oferecidos**: Criação de campanhas publicitárias, gestão de redes sociais, branding, design gráfico, mídia digital e assessoria de marketing.
+* **Área de atuação**: Contrução de sites, Publicidade e Propaganda
+* **Serviços oferecidos**: Criação de campanhas publicitárias, gestão de redes sociais, branding, design gráfico, mídia digital, websites e assessoria de marketing.
 * **Público-alvo**: Pequenas e médias empresas que buscam posicionar sua marca no mercado.
 * **Objetivo**: Ser referência em criatividade e resultados no mercado publicitário local em até 3 anos.
 
@@ -14,19 +14,19 @@
 
 ### 2. **Análise de Mercado**
 
-#### 2.1 Setor e Tendências
+#### Setor e Tendências
 
 * Crescimento do marketing digital.
 * Aumento da demanda por presença online.
 * Personalização e marketing de conteúdo como diferenciais competitivos.
 
-#### 2.2 Análise da Concorrência
+#### Análise da Concorrência
 
 * Identificação de concorrentes diretos e indiretos.
 * Pontos fortes e fracos dos concorrentes.
 * Estratégias para se diferenciar: foco em atendimento personalizado e resultados mensuráveis.
 
-#### 2.3 Público-alvo
+#### Público-alvo
 
 * Empresas de pequeno e médio porte, recém-criadas ou em fase de expansão.
 * Faixa etária dos tomadores de decisão: 25 a 50 anos.
@@ -36,24 +36,24 @@
 
 ### 3. **Plano de Marketing**
 
-#### 3.1 Produto/Serviço
+#### Produto/Serviço
 
 * Pacotes personalizados de publicidade.
 * Diagnóstico gratuito de presença digital.
 * Campanhas específicas para redes sociais, e-mail marketing e mídia offline.
 
-#### 3.2 Preço
+#### Preço
 
 * Preço baseado em pacotes mensais e projetos pontuais.
 * Tabela de preços com diferentes faixas conforme complexidade do serviço.
 
-#### 3.3 Praça (Distribuição)
+#### Praça (Distribuição)
 
 * Sede física para reuniões presenciais.
 * Atendimento remoto (Zoom, WhatsApp, e-mail).
 * Site institucional com portfólio e captação de leads.
 
-#### 3.4 Promoção
+#### Promoção
 
 * Divulgação via redes sociais, SEO, anúncios pagos e parcerias com influencers locais.
 * Participação em eventos e feiras empresariais.
@@ -62,19 +62,19 @@
 
 ### 4. **Plano Operacional**
 
-#### 4.1 Estrutura Física
+#### Estrutura Física
 
 * Escritório com recepção, sala de reuniões e estações de trabalho.
 * Equipamentos: computadores, softwares de design e edição, câmera fotográfica.
 
-#### 4.2 Equipe Inicial
+#### Equipe Inicial
 
 * 1 Diretor de Criação
 * 1 Designer Gráfico
 * 1 Analista de Mídias Sociais
 * 1 Atendimento ao Cliente / Comercial
 
-#### 4.3 Processos
+#### Processos
 
 * Atendimento → Briefing → Criação → Aprovação → Execução → Relatório de Resultados
 
@@ -82,7 +82,7 @@
 
 ### 5. **Plano Financeiro**
 
-#### 5.1 Investimento Inicial
+#### Investimento Inicial
 
 | Item                      | Valor (R\$) |
 | ------------------------- | ----------- |
@@ -93,12 +93,12 @@
 | Capital de giro           | 10.000      |
 | **Total**                 | **39.000**  |
 
-#### 5.2 Projeção de Receitas
+#### Projeção de Receitas
 
 * Receita esperada no 1º ano: R\$ 120.000
 * Crescimento estimado: 15% ao ano
 
-#### 5.3 Ponto de Equilíbrio
+#### Ponto de Equilíbrio
 
 * Identificação do faturamento mínimo necessário para cobrir os custos fixos e variáveis.
 
