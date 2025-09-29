@@ -19,7 +19,7 @@ Premiação para os melhores projetos
 
 ---
 
-### **3. Shark Tank da Escola** 🦈  
+### **3. Shark Tank da Escola** 
 Baseado no programa de TV, os alunos apresentam ideias de negócio para uma **banca de "investidores" (professores ou empresários locais)**.  
 Os "tubarões" fazem perguntas e decidem se "investiriam" no projeto.  
 
@@ -50,7 +50,7 @@ Gestão de pedidos e atendimento ao cliente
 
 ---
 
-### **7. Escape Room Empreendedor** 🔐  
+### **7. Escape Room Empreendedor**  
 Criar um jogo de fuga onde os alunos precisam **resolver desafios empresariais** para "sair do jogo". Exemplos de desafios:  
 - Resolver um problema de fluxo de caixa  
 - Criar uma estratégia de marketing para um novo produto  
@@ -58,7 +58,7 @@ Criar um jogo de fuga onde os alunos precisam **resolver desafios empresariais**
 
 ---
 
-### **8. Batalha de Marcas** 💡🏆  
+### **8. Batalha de Marcas** 
 Cada grupo recebe um **produto ou serviço genérico** e precisa criar:  
 Nome e logo  
 Slogan  
@@ -75,7 +75,7 @@ Exemplo: um aluno precisa negociar o preço de um produto com um fornecedor e co
 
 ---
 
-### **10. Podcast ou Canal no YouTube sobre Empreendedorismo** 🎙️📹  
+### **10. Podcast ou Canal no YouTube sobre Empreendedorismo** 
 Os alunos criam um **podcast ou canal no YouTube** e entrevistam empresários locais, professores ou alunos com histórias inspiradoras.  
 Isso os ajuda a desenvolver comunicação, networking e visão de mercado.  
 
